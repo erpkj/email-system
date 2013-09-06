@@ -1,4 +1,4 @@
 email-system
 ============
 
-email system in CodeIgniter
+Email system in CodeIgniter
